@@ -1,7 +1,7 @@
 GGJ2012-Poncho
 ==============
 
-Submission for Global Game Jam 2012 and first python program
+Submission for Global Game Jam 2012 and first python program. Was made from scratch in one weekend.
 
 Programmed with Brandon Duncan, as an effort to learn python together. The art was done by Jake, an American artist who communicated with us through skype.
 
