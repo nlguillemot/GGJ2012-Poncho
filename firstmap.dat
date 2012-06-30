@@ -1,0 +1,4 @@
+spawn 200 250
+enemy enemy1 80 200
+enemy enemy2 308 70 
+enemy enemy3 350 209
